@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 printf("Enter the value of x1 : ");
 scanf("%f",&x1);
 printf("Enter the value of y11 : ");
-scanf("%f",&y1);
+scanf("%f",&y11);
 printf("Enter the value of x2 : ");
 scanf("%f",&x2);
 printf("Enter the value of y2 : ");
